@@ -53,7 +53,7 @@ export function register(config) {
     });
   }
 }
-
+//this is a chat app
 function registerValidSW(swUrl, config) {
   navigator.serviceWorker
     .register(swUrl)
